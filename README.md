@@ -1,4 +1,4 @@
 # github_demo
 This is my first Git repository.
 <br>
-Author- Anushka Dasgupta
+Author- Anushka Dasgupta(kiit)
