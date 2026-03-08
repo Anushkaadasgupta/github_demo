@@ -1,3 +1,3 @@
 # github_demo
-This is my first Git repository
-Anushka Dasgupta
+This is my first Git repository.
+Author- Anushka Dasgupta
